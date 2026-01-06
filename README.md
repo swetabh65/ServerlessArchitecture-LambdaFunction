@@ -1,4 +1,4 @@
-# Details of all 4 covered assignment topics
+# Details of all topics
 
 ## 🧰 Tools & Services Used
 
